@@ -1,0 +1,26 @@
+{
+  "true": {
+    "properNouns": 11.1,
+    "peopleMentioned": 2.4,
+    "adjectives": 5.0,
+    "verbs": 12.4,
+    "wordsPerSentence": 17.9,
+    "tokens": 1069.8
+  },
+  "human_fake": {
+    "properNouns": 12.8,
+    "peopleMentioned": 3.6,
+    "adjectives": 4.9,
+    "verbs": 13.7,
+    "wordsPerSentence": 13.5,
+    "tokens": 171.1
+  },
+  "synthetic_fake": {
+    "properNouns": 11.2,
+    "peopleMentioned": 2.9,
+    "adjectives": 7.6,
+    "verbs": 13.0,
+    "wordsPerSentence": 19.0,
+    "tokens": 343.8
+  }
+}
